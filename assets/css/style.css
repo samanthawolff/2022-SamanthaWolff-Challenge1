@@ -56,7 +56,7 @@ header nav ul li {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg" alt="4 people sitting around an office desk working hard on a project.");
+    background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
