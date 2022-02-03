@@ -12,7 +12,7 @@ p {
     font-size: 16px;
 }
 
-/* Header Secton*/
+/* Header Secton */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -51,8 +51,7 @@ header nav ul li {
     text-decoration: none;
 }
 
-
-/* Hero Section*/
+/* Hero Section */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,16 +61,7 @@ header nav ul li {
     background-position: center;
 }
 
-.float-left {
-    float: left;
-    margin-right: 25px;
-}
-
-.float-right {
-    float: right;
-    margin-left: 25px;
-}
-
+/* Content Section */
 .content {
     width: 75%;
     display: inline-block;
@@ -91,11 +81,22 @@ header nav ul li {
     max-height: 200px;
 }
 
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
 .content-sections h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
+/* Benifit Section */
 .benefits {
     margin-right: 20px;
     padding: 20px;
