@@ -8,5 +8,7 @@ For this project I was tasked with making Horiseon's code more user friendly and
 
 * The CSS for the page had some duplicate code so I consolidated that and organized it to fit the semantic stucture of the html. 
 * I also added multiple comments to both the html and css files in order to add even more organization. 
+* The 3 images seen in the section I labeled as "content" did not have any alt attributes so I added those. 
 
 
+https://samanthawolff.github.io/2022-SamanthaWolff-Challenge1/
